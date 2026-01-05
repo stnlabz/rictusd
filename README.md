@@ -9,6 +9,6 @@ RictusD is the Stn-Labz control and enforcement AI Daemon
 
 # Does Not
 - Chat with you
-- Help yu develop anything
-- Create any images for you
-- or act like Grok, Deepseek, or ChatGPT in any way or fashion. 
+- Help you develop anything
+- Create or edit any images for you
+- act like Grok, Deepseek, or ChatGPT in any way or fashion. 
