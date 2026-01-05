@@ -6,6 +6,7 @@ RictusD is the Stn-Labz control and enforcement AI Daemon
 - Control the entire Neural Network of Stn-Labz and our Blockchain for the Threat Network.
 - Provide coding enforcement and complience
 - Provide doctrinal enforcement and complience
+- interact at a network level with DigitD
 
 # Does Not
 - Chat with you
